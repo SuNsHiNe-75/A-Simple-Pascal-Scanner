@@ -9,7 +9,7 @@ In the first assignment, you must use Lex to write a Pascal scanner.
 The output of the scanner will list each token along with its type (integer, real, ID, reserved word, string, symbol), the line number where the token is located, and the position of the first character.
 
 #### Establishing Environment
-Refer to [Report](https://github.com/SuNsHiNe-75/A-Simple-Pascal-Scanner/blob/main/Report.docx).
+Refer to [Report](https://github.com/SuNsHiNe-75/A-Simple-Pascal-Scanner/blob/main/Report.pdf).
 
 #### Run
-Refer to [Report](https://github.com/SuNsHiNe-75/A-Simple-Pascal-Scanner/blob/main/Report.docx).
+Refer to [Report](https://github.com/SuNsHiNe-75/A-Simple-Pascal-Scanner/blob/main/Report.pdf).
